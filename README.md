@@ -1,12 +1,19 @@
 ## 👋 Hi, I'm ZhaoBuyan
 
-- 🎓 Computer Science student, Class of 2028
+- 🎓 Software Engineering student, Class of 2028
 - 🔭 Currently building: **E-Vote** — an AI-powered online voting system
-- 📚 Coursework: 408 (Data Structures, OS, Computer Networks, CO) · Database Systems · Software Engineering
-- 📖 Reading *OSTEP* (Operating Systems: Three Easy Pieces) — learning OS in English, one chapter at a time
 - 🧑‍💻 Languages: C · C++ · Python · JavaScript
-- 🌱 Always open to collaboration and interesting projects
+- 📖 Reading *OSTEP* (Operating Systems: Three Easy Pieces) to understand how systems really work
+- 🤖 Exploring how LLMs can be integrated into practical applications
 - 📫 Reach me: zpq3329596696@foxmail.com
+
+---
+
+### 🧭 What drives me
+
+I enjoy building things that actually work — but I also want to understand what's happening underneath.
+
+That's why I'm learning C and operating systems alongside full-stack development. It's not about "being good at everything." It's about being able to reason about systems from the hardware up.
 
 ---
 
@@ -20,28 +27,29 @@
 
 ---
 
-### 📌 Projects
+### 📌 Featured Project
 
 - **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** — Online voting system with AI-generated polls, real-time charts, and anti-spam.  
+  Built from scratch in 2 weeks as a full-stack practice.  
   `Node.js` `Express` `MySQL` `DeepSeek API` `ECharts`
 
 ---
 
-### 📖 What I'm Learning
+### 📖 What I'm learning
 
-- **Operating Systems** — reading OSTEP, experimenting with system concepts
-- **Database Systems** — query optimization, indexing, transaction isolation
-- **Software Engineering** — design patterns, testing, agile practices
+- **Operating Systems** — reading OSTEP, writing small experiments
+- **Database Systems** — indexing, query optimization, isolation levels
+- **Software Engineering** — design patterns, testing, project structure
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's connect
 
 I'm always interested in:
-- Open source contributions
 - Interesting side projects
-- Technical discussions
+- OS / systems programming
+- Practical AI applications
 
-Feel free to open an issue or start a conversation.
+Open an issue or start a conversation — I usually reply within 24 hours.
 
-> 💡 Build things. Share them. Learn in public.
+> 💡 Build things. Learn how they work. Share what you find.
