@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm ZhaoBuyan
 
-- 🎓 Software Engineering student, Class of 2028
+- 🎓 Software Engineering student at an unknown school , Class of 2028
 - 🔭 Currently building: **E-Vote** — an AI-powered online voting system
 - 🧑‍💻 Languages: C · C++ · Python · JavaScript
 - 📖 Reading *OSTEP* (Operating Systems: Three Easy Pieces) to understand how systems really work
@@ -24,6 +24,14 @@ That's why I'm learning C and operating systems alongside full-stack development
 **AI:** DeepSeek API · OpenAI SDK  
 **Languages:** C · C++ · Python · JavaScript  
 **Tools:** Git · VS Code · Postman
+
+---
+
+### ✅ Completed Projects
+
+- **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** — Online voting system with AI-generated polls, real-time charts, and anti-spam.  
+  Built from scratch in 2 weeks as a full-stack practice.  
+  `Node.js` `Express` `MySQL` `DeepSeek API` `ECharts`
 
 ---
 
