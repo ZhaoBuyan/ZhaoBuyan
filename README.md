@@ -1,63 +1,47 @@
-## 👋 Hi, I'm ZhaoBuyan
+### Hi there 👋 I'm ZhaoBuyan
 
-- 🎓 Software Engineering student at an unknown school , Class of 2028
-- 🔭 Currently building: **E-Vote** — an AI-powered online voting system
-- 🧑‍💻 Languages: C · C++ · Python · JavaScript
-- 📖 Reading *OSTEP* (Operating Systems: Three Easy Pieces) to understand how systems really work
-- 🤖 Exploring how LLMs can be integrated into practical applications
-- 📫 Reach me: zpq3329596696@foxmail.com
+Software Engineering undergraduate (Class of 2028) who loves building things that actually work — and then digging underneath to understand how they work.
+
+- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** (C#/.NET desktop) and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
+- 🧑‍💻 Languages: TypeScript/JavaScript · C# · Python · C/C++
+- 🤖 Exploring practical LLM integrations beyond chat wrappers
+- 📖 Reading *OSTEP* to understand how systems really work
 
 ---
 
-### 🧭 What drives me
+### 🚀 Projects
 
-I enjoy building things that actually work — but I also want to understand what's happening underneath.
-
-That's why I'm learning C and operating systems alongside full-stack development. It's not about "being good at everything." It's about being able to reason about systems from the hardware up.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Mirrors your music player (NetEase Cloud / QQ Music / LX Music) playback into your Steam status — friends see the song, artist and live progress. Auto-pauses while you play a real game. | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
+| **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform: structured real-time debates, AI recap, knowledge base. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
+| **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
+| **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:** HTML · CSS · JavaScript · jQuery · Bootstrap · ECharts  
-**Backend:** Node.js · Express · MySQL  
-**AI:** DeepSeek API · OpenAI SDK  
-**Languages:** C · C++ · Python · JavaScript  
-**Tools:** Git · VS Code · Postman
+**Frontend:** TypeScript · React · Vite · Tailwind CSS · HTML/CSS · JavaScript · jQuery · Bootstrap · ECharts
+**Backend:** Node.js · Express · Socket.IO · SQLite · MySQL
+**Desktop:** C# · .NET 9 · WinForms · SteamKit2
+**Languages:** TypeScript/JavaScript · C# · Python · C/C++
+**AI/LLM:** DeepSeek API · OpenAI SDK
+**Tools:** Git · GitHub Actions · VS Code · Postman
 
 ---
 
-### ✅ Completed Projects
-
-- **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** — Online voting system with AI-generated polls, real-time charts, and anti-spam.  
-  Built from scratch in 2 weeks as a full-stack practice.  
-  `Node.js` `Express` `MySQL` `DeepSeek API` `ECharts`
-
----
-
-### 📌 Featured Project
-
-- **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** — Online voting system with AI-generated polls, real-time charts, and anti-spam.  
-  Built from scratch in 2 weeks as a full-stack practice.  
-  `Node.js` `Express` `MySQL` `DeepSeek API` `ECharts`
-
----
-
-### 📖 What I'm learning
+### 🌱 Currently learning
 
 - **Operating Systems** — reading OSTEP, writing small experiments
 - **Database Systems** — indexing, query optimization, isolation levels
-- **Software Engineering** — design patterns, testing, project structure
+- **Software Engineering** — testing, project structure, shipping clean code
 
 ---
 
-### 🤝 Let's connect
+### 📫 Let's connect
 
-I'm always interested in:
-- Interesting side projects
-- OS / systems programming
-- Practical AI applications
-
-Open an issue or start a conversation — I usually reply within 24 hours.
+- 📮 zpq3329596696@foxmail.com
+- 💡 Open an issue on any of my repos or start a conversation — I usually reply within 24 hours
 
 > 💡 Build things. Learn how they work. Share what you find.
