@@ -2,7 +2,7 @@
 
 Software Engineering undergraduate (Class of 2028) who loves building things that actually work — and then digging underneath to understand how they work.
 
-- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** (C#/.NET desktop) and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
+- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** v0.2.0 (C#/.NET desktop) and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
 - 🧑‍💻 Languages: TypeScript/JavaScript · C# · Python · C/C++
 - 🤖 Exploring practical LLM integrations beyond chat wrappers
 - 📖 Reading *OSTEP* to understand how systems really work
@@ -13,8 +13,8 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Mirrors your music player (NetEase Cloud / QQ Music / LX Music) playback into your Steam status — friends see the song, artist and live progress. Auto-pauses while you play a real game. | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
-| **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform: structured real-time debates, AI recap, knowledge base. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
+| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Pushes what you're doing — music players *(NetEase Cloud / QQ Music / LX Music)* or **any app** — into your Steam status, with live song, artist and progress. Auto-pauses while you play a real Steam game. Ships as a single portable exe, no runtime install. | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
+| **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform: structured real-time debates, AI argument extraction and argument maps, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
 
@@ -34,14 +34,15 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 ### 🌱 Currently learning
 
 - **Operating Systems** — reading OSTEP, writing small experiments
+- **Embedded Systems** — STM32 / ESP32, FreeRTOS, sensors and control
 - **Database Systems** — indexing, query optimization, isolation levels
-- **Software Engineering** — testing, project structure, shipping clean code
 
 ---
 
 ### 📫 Let's connect
 
 - 📮 zpq3329596696@foxmail.com
+- 🌐 https://zhaobuyan.top
 - 💡 Open an issue on any of my repos or start a conversation — I usually reply within 24 hours
 
 > 💡 Build things. Learn how they work. Share what you find.
