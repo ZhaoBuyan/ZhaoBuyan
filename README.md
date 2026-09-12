@@ -23,10 +23,15 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 ### 🛠️ Tech Stack
 
 **Frontend:** TypeScript · React · Vite · Tailwind CSS · HTML/CSS · JavaScript · jQuery · Bootstrap · ECharts
+
 **Backend:** Node.js · Express · Socket.IO · SQLite · MySQL
+
 **Desktop:** C# · .NET 9 · WinForms · SteamKit2
+
 **Languages:** TypeScript/JavaScript · C# · Python · C/C++
+
 **AI/LLM:** DeepSeek API · OpenAI SDK
+
 **Tools:** Git · GitHub Actions · VS Code · Postman
 
 ---
