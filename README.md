@@ -2,7 +2,7 @@
 
 Software Engineering undergraduate (Class of 2028) who loves building things that actually work — and then digging underneath to understand how they work.
 
-- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** v0.3.0 (C#/.NET desktop) ([download](https://github.com/ZhaoBuyan/MuSync/releases/latest)) and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
+- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** v0.4.0 (C#/.NET desktop) ([download](https://github.com/ZhaoBuyan/MuSync/releases/latest)) and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
 - 🧑‍💻 Languages: TypeScript/JavaScript · C# · Python · C/C++
 - 🤖 Exploring practical LLM integrations beyond chat wrappers
 - 📖 Reading *OSTEP* to understand how systems really work
@@ -11,7 +11,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 ### 🔨 What I'm working on now
 
-**[MuSync](https://github.com/ZhaoBuyan/MuSync)** — polishing the desktop experience: a rebuilt one-window settings UI, a built-in update checker with one-click download, fully customizable progress bars, and sync-frequency profiles. **v0.3.0 just shipped** — [release notes](https://github.com/ZhaoBuyan/MuSync/releases).
+**[MuSync](https://github.com/ZhaoBuyan/MuSync)** — now with **Kugou Music** support (four players total), a full appearance system (colors / fonts / background images), and a new **installer edition with one-click auto-update**. **v0.4.0 just shipped** — [release notes](https://github.com/ZhaoBuyan/MuSync/releases).
 
 ---
 
@@ -19,7 +19,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Pushes what you're doing — music players *(NetEase Cloud / QQ Music / LX Music)* or **any app** — into your Steam status, with live song, artist and progress. Auto-pauses while you play a real Steam game. Ships as a single portable exe — no runtime install, built-in update checker. 📥 [Download for Windows](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
+| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Pushes what you're doing — music players *(NetEase Cloud / QQ Music / LX Music / Kugou)* or **any app** — into your Steam status, with live song, artist and progress. Auto-pauses while you play a real Steam game. Ships as an installer (with one-click auto-update) or a portable single exe — no runtime install. 📥 [Download for Windows](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
 | **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform: structured real-time debates, AI argument extraction and argument maps, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
