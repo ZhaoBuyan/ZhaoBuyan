@@ -19,8 +19,8 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Pushes what you're doing — music players *(NetEase Cloud / QQ Music / LX Music / Kugou)* or **any app** — into your Steam status, with live song, artist and progress. Auto-pauses while you play a real Steam game. Full **English / Chinese** UI. Ships as a portable single exe — no runtime install — or an installer with one-click auto-update. 📥 [Download for Windows](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
-| **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform: structured real-time debates, AI argument extraction and argument maps, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
+| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Music players (NetEase/QQ/LX/Kugou) or any app → your Steam status. Auto-pauses during real games; English/Chinese UI; single exe or installer. 📥 [Download](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
+| **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform with **AI argument extraction and a live argument map** — structured debates, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
 
