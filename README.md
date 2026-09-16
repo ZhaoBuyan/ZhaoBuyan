@@ -19,7 +19,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Music players (NetEase/QQ/LX/Kugou) or any app → your Steam status. Auto-pauses during real games; English/Chinese UI; single exe or installer. 📥 [Download](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
+| **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Syncs your music player or any app to your Steam status. Auto-pauses during real games; bilingual UI. 📥 [Download](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
 | **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform with **AI argument extraction and a live argument map** — structured debates, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
@@ -52,8 +52,8 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 ### 📫 Let's connect
 
-- 📮 zpq3329596696@foxmail.com
 - 🌐 https://zhaobuyan.top
+- 📮 zpq3329596696@foxmail.com
 - 💡 Open an issue on any of my repos or start a conversation — I usually reply within 24 hours
 
 > 💡 Build things. Learn how they work. Share what you find.
