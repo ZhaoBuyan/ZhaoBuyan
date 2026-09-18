@@ -2,7 +2,7 @@
 
 Software Engineering undergraduate (Class of 2028) who loves building things that actually work — and then digging underneath to understand how they work.
 
-- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** v0.4.1 (C#/.NET desktop), **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** v1.1.0 (local-first code map for humans and AI), and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
+- 🔭 Recently shipped: **[MuSync](https://github.com/ZhaoBuyan/MuSync)** v0.4.1 (C#/.NET desktop), **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** v1.3.0 (local-first code map for humans and AI), and **[debate-app](https://github.com/ZhaoBuyan/debate-app)** (full-stack TypeScript)
 - 🧑‍💻 Languages: TypeScript/JavaScript · C# · Python · C/C++
 - 🤖 Exploring practical LLM integrations beyond chat wrappers
 - 📖 Reading *OSTEP* to understand how systems really work
@@ -13,7 +13,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 **[MuSync](https://github.com/ZhaoBuyan/MuSync)** — now fully bilingual: the entire app (UI, tray, settings, update dialogs, diagnostics) works in **English or Chinese**, plus visual polish and a lighter installer. **v0.4.1 just shipped** — [release notes](https://github.com/ZhaoBuyan/MuSync/releases).
 
-**[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** — a local-first code map for humans and AI: scan any codebase into `bundle.json`, browse it in the browser, or query it over MCP to save tokens. **v1.1.0 just shipped** — [release notes](https://github.com/ZhaoBuyan/CodeAtlas/releases).
+**[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** — a local-first code map for humans and AI: scan any codebase into `bundle.json`, browse it in the browser, or query it over MCP to save tokens. **v1.3.0 just shipped** — [release notes](https://github.com/ZhaoBuyan/CodeAtlas/releases).
 
 ---
 
@@ -22,7 +22,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Syncs your music player or any app to your Steam status. Auto-pauses during real games; bilingual UI. 📥 [Download](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
-| **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** | Turns any codebase into a browsable code map — humans explore it in the browser, AI queries it over MCP to save tokens. 27 languages, local-first, single exe. 📥 [Download](https://github.com/ZhaoBuyan/CodeAtlas/releases/latest) | Node.js · WebView2 · MCP |
+| **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** | Turns any codebase into a browsable code map — humans explore it in the browser, AI queries it over MCP (9 tools) to save tokens. 28 languages, local-first, single exe. 📥 [Download](https://github.com/ZhaoBuyan/CodeAtlas/releases/latest) | Node.js · WebView2 · MCP |
 | **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform with **AI argument extraction and a live argument map** — structured debates, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
