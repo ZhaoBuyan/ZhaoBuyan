@@ -25,9 +25,9 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 | --- | --- | --- |
 | **[MuSync](https://github.com/ZhaoBuyan/MuSync)** | Syncs your music player, any app — or a custom status line — to your Steam. Auto-pauses during real games; bilingual UI. 📥 [Download](https://github.com/ZhaoBuyan/MuSync/releases/latest) | C# · .NET 9 · WinForms · SteamKit2 · DPAPI |
 | **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** | Turns any codebase into a browsable code map — humans explore it in the browser, AI queries it over MCP (9 tools) to save tokens. 28 languages, local-first, single exe. 📥 [Download](https://github.com/ZhaoBuyan/CodeAtlas/releases/latest) | Node.js · WebView2 · MCP |
+| **[stm32-to-linux](https://github.com/ZhaoBuyan/stm32-to-linux)** | An embedded-systems learning log: bare-metal STM32F429 → FreeRTOS → embedded Linux, one documented experiment per folder. | C · STM32 · FreeRTOS |
 | **[debate-app](https://github.com/ZhaoBuyan/debate-app)** | Full-stack debate platform with **AI argument extraction and a live argument map** — structured debates, post-match reports, guest browsing without an account. | TypeScript · React · Vite · Tailwind CSS · Express · Socket.IO · SQLite |
 | **[E-Vote](https://github.com/ZhaoBuyan/E-Vote)** | Online voting system: AI-generated polls, real-time charts, anti-spam. | Node.js · Express · MySQL · DeepSeek API · ECharts |
-| **[stm32-to-linux](https://github.com/ZhaoBuyan/stm32-to-linux)** | An embedded-systems learning log: bare-metal STM32F429 → FreeRTOS → embedded Linux, one documented experiment per folder. | C · STM32 · FreeRTOS |
 | **[ZhaoBuyan.github.io](https://github.com/ZhaoBuyan/ZhaoBuyan.github.io)** | My personal website. | HTML · CSS · JavaScript |
 
 ---
