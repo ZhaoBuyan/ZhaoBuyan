@@ -11,7 +11,7 @@ Software Engineering undergraduate (Class of 2028) who loves building things tha
 
 ### 🔨 What I'm working on now
 
-**[MuSync](https://github.com/ZhaoBuyan/MuSync)** — now on **.NET 10**, with the progress bar split from the timeline (two independent template blocks), custom HTTP data sources you can drop into the status as blocks (heart rate, viewer counts — anything that returns JSON), and browser video sync alongside five music players. **v0.4.10 just shipped** — [release notes](https://github.com/ZhaoBuyan/MuSync/releases).
+**[MuSync](https://github.com/ZhaoBuyan/MuSync)** — now syncs **browser video** alongside five music players, and lets you pipe **any JSON endpoint** (heart rate, viewer counts) into your Steam status. **v0.4.10 just shipped** — [release notes](https://github.com/ZhaoBuyan/MuSync/releases).
 
 **[CodeAtlas](https://github.com/ZhaoBuyan/CodeAtlas)** — a local-first code map for humans and AI: scan any codebase into `bundle.json`, browse it in the browser, or query it over MCP (9 tools). Now covering **32 languages + 6 file formats** with a cleaner dependency graph. **v1.9.0 just shipped** — [release notes](https://github.com/ZhaoBuyan/CodeAtlas/releases).
 
